@@ -1,0 +1,390 @@
+[
+    {
+        "question": "What is the course code for Advanced Database Systems?",
+        "answer": "CS 5600"
+    },
+    {
+        "question": "What is the title of CS 5600?",
+        "answer": "Advanced Database Systems"
+    },
+    {
+        "question": "Which semester is this syllabus for?",
+        "answer": "Fall 2025"
+    },
+    {
+        "question": "Who is the instructor for CS 5600?",
+        "answer": "Dr. Khomsun Singhirunnusorn"
+    },
+    {
+        "question": "Where is the instructor's office?",
+        "answer": "MIC D-162"
+    },
+    {
+        "question": "What is the instructor's office phone number?",
+        "answer": "660-543-6623"
+    },
+    {
+        "question": "What are the instructor's office hours?",
+        "answer": "M, W 01:00 \u2013 04:00 PM"
+    },
+    {
+        "question": "What is the Zoom link for office hours?",
+        "answer": "https://ucmo.zoom.us/j/3289937962"
+    },
+    {
+        "question": "What is the instructor's email address?",
+        "answer": "singhirunnusorn@ucmo.edu"
+    },
+    {
+        "question": "What is the expected email response time?",
+        "answer": "Within 24 hours, except weekends and holidays"
+    },
+    {
+        "question": "What is the course format?",
+        "answer": "Face-to-face"
+    },
+    {
+        "question": "When does the class meet?",
+        "answer": "Mondays 8:00 \u2013 10:00 AM"
+    },
+    {
+        "question": "Where is the class held?",
+        "answer": "MIC 111"
+    },
+    {
+        "question": "How many credit hours is CS 5600?",
+        "answer": "3 credit hours"
+    },
+    {
+        "question": "What is the CRN for CS 5600?",
+        "answer": "11111"
+    },
+    {
+        "question": "What are the prerequisites for CS 5600?",
+        "answer": "CS 5200, CS 4600, or instructor consent"
+    },
+    {
+        "question": "What textbook is used in CS 5600?",
+        "answer": "Database System Concepts, 7th Edition, Silberschatz, Korth, and Sudarshan, McGraw-Hill 2019"
+    },
+    {
+        "question": "Name a course objective related to storage.",
+        "answer": "Understand Storage and File Structures, Indexing and Hashing."
+    },
+    {
+        "question": "What is taught about query optimization?",
+        "answer": "Understand Query Processing and Optimization."
+    },
+    {
+        "question": "What is taught about transactions?",
+        "answer": "Understand Transaction Management, Concurrent Control, and Recovery."
+    },
+    {
+        "question": "Does the course include NoSQL?",
+        "answer": "Yes, it covers core concepts of NoSQL databases."
+    },
+    {
+        "question": "Is data warehousing part of the course?",
+        "answer": "Yes, students will develop data warehouses and analyze data."
+    },
+    {
+        "question": "What is covered in terms of application development?",
+        "answer": "Develop Advanced Web Database Applications."
+    },
+    {
+        "question": "Does the course include performance tuning?",
+        "answer": "Yes, students perform database performance tuning."
+    },
+    {
+        "question": "What algorithm skills will students apply?",
+        "answer": "Apply algorithmic principles and computing theories."
+    },
+    {
+        "question": "What development principles will be applied?",
+        "answer": "Apply design and development principles for building systems."
+    },
+    {
+        "question": "What indexing structures will students implement?",
+        "answer": "B+ tree and extendable hashing for insertion and deletion."
+    },
+    {
+        "question": "What presentation skills are expected?",
+        "answer": "Students make quality presentations to class or faculty."
+    },
+    {
+        "question": "How do students work in teams?",
+        "answer": "Students fulfill designated roles on teams."
+    },
+    {
+        "question": "What computing skills are emphasized?",
+        "answer": "Use of current techniques, skills, and tools."
+    },
+    {
+        "question": "What communication skills are expected?",
+        "answer": "Communicate effectively with a range of audiences."
+    },
+    {
+        "question": "What teamwork skills are required?",
+        "answer": "Work effectively in a team environment."
+    },
+    {
+        "question": "What is expected for ethical understanding?",
+        "answer": "Demonstrate an understanding of ethical computing concerns."
+    },
+    {
+        "question": "What is emphasized about professional development?",
+        "answer": "Engage in continuing professional development."
+    },
+    {
+        "question": "How many points is each written assignment worth?",
+        "answer": "25 points"
+    },
+    {
+        "question": "How many written assignments are there?",
+        "answer": "4"
+    },
+    {
+        "question": "How many programming assignments are there?",
+        "answer": "2"
+    },
+    {
+        "question": "How many group project parts are there?",
+        "answer": "3: project description, database description, and final report"
+    },
+    {
+        "question": "What is the total point value of the midterm?",
+        "answer": "100 points"
+    },
+    {
+        "question": "What is the total point value of the final exam?",
+        "answer": "100 points"
+    },
+    {
+        "question": "What is the grading scale?",
+        "answer": "A: 450-500, B: 400-449, C: 350-399, D: 300-349, F: 0-299"
+    },
+    {
+        "question": "What is the policy on late written assignments?",
+        "answer": "Late submission after 12:05 AM is penalized."
+    },
+    {
+        "question": "What is the penalty for late work?",
+        "answer": "50% deduction from earned grade."
+    },
+    {
+        "question": "Are students expected to attend every class?",
+        "answer": "Yes, at least 14 sessions per semester."
+    },
+    {
+        "question": "What format are lectures delivered in?",
+        "answer": "Primarily face-to-face, with Zoom available for approved students."
+    },
+    {
+        "question": "Where are lectures posted?",
+        "answer": "Brightspace."
+    },
+    {
+        "question": "What is the policy on generative AI?",
+        "answer": "Use only if explicitly allowed; unauthorized use is plagiarism."
+    },
+    {
+        "question": "What is the university's Title IX policy?",
+        "answer": "Sex discrimination and misconduct are not tolerated and must be reported."
+    },
+    {
+        "question": "What happens if a student misses an exam?",
+        "answer": "Must provide valid documentation for makeup eligibility."
+    },
+    {
+        "question": "What is the 'U' grade policy?",
+        "answer": "Given only in extenuating circumstances at instructor's discretion."
+    },
+    {
+        "question": "What topic is covered in lecture 1?",
+        "answer": "Introduction to Database Systems"
+    },
+    {
+        "question": "What topic is covered in lecture 2?",
+        "answer": "Data Storages and File Structure"
+    },
+    {
+        "question": "What topic is covered in lecture 3?",
+        "answer": "Indexings"
+    },
+    {
+        "question": "What topic is covered in lecture 4?",
+        "answer": "B-Tree"
+    },
+    {
+        "question": "What topic is covered in lecture 5?",
+        "answer": "B+Tree"
+    },
+    {
+        "question": "What topic is covered in lecture 6?",
+        "answer": "Hashings, LSM and Bloom Filters"
+    },
+    {
+        "question": "What topic is covered in lecture 7?",
+        "answer": "Query Executions and Plans"
+    },
+    {
+        "question": "What topic is covered in lecture 8?",
+        "answer": "Query Optimization"
+    },
+    {
+        "question": "What topic is covered in lecture 9?",
+        "answer": "Transactions Part 1."
+    },
+    {
+        "question": "What topic is covered in lecture 10?",
+        "answer": "Transactions Part 2."
+    },
+    {
+        "question": "What topic is covered in lecture 11?",
+        "answer": "Concurrency Control Part 1."
+    },
+    {
+        "question": "What topic is covered in lecture 12?",
+        "answer": "Concurrency Control Part 2."
+    },
+    {
+        "question": "What topic is covered in lecture 13?",
+        "answer": "Index Locking Protocol and Timestamp Concurrency Control"
+    },
+    {
+        "question": "What topic is covered in lecture 14?",
+        "answer": "Recovery System Part 1."
+    },
+    {
+        "question": "What topic is covered in lecture 15?",
+        "answer": "Recovery System Part 2."
+    },
+    {
+        "question": "What is Zoom Meeting ID for attend the online class?",
+        "answer": "328 993 7962"
+    },
+    {
+        "question": "What is Zoom Meeting Link?",
+        "answer": "https://ucmo.zoom.us/j/3289937962"
+    },
+    {
+        "question": "What is the due date and time for project description?",
+        "answer": "MM/DD/YY@HH:MM AM/PM"
+    },
+    {
+        "question": "What is the due date and time for database description?",
+        "answer": "MM/DD/YY@HH:MM AM/PM"
+    },
+    {
+        "question": "What is the due date and time for project final report?",
+        "answer": "MM/DD/YY@HH:MM AM/PM"
+    },
+    {
+        "question": "What is the due date and time for written assignment 1?",
+        "answer": "MM/DD/YY@HH:MM AM/PM"
+    },
+    {
+        "question": "What is the due date and time for written assignment 2?",
+        "answer": "MM/DD/YY@HH:MM AM/PM"
+    },
+    {
+        "question": "What is the due date and time for written assignment 3?",
+        "answer": "MM/DD/YY@HH:MM AM/PM"
+    },
+    {
+        "question": "What is the due date and time for written assignment 4?",
+        "answer": "MM/DD/YY@HH:MM AM/PM"
+    },
+    {
+        "question": "What is the due date and time for programming assignment 1?",
+        "answer": "MM/DD/YY@HH:MM AM/PM"
+    },
+    {
+        "question": "What is the due date and time for programming assignment 2?",
+        "answer": "MM/DD/YY@HH:MM AM/PM"
+    },
+    {
+        "question": "What is the fall break?",
+        "answer": "MM/DD/YY to MM/DD/YY"
+    },
+    {
+        "question": "When is the mid-term exam date and time?",
+        "answer": "MM/DD/YY@HH:MM"
+    },
+    {
+        "question": "What is the final exam date and time?",
+        "answer": "MM/DD/YY@HH:MM"
+    },
+    {
+        "question": "What should do if the student forget to sign in the attendance sheet?",
+        "answer": "The student should contacts the instructor, ASAP."
+    },
+    {
+        "question": "What does the student would do if emergency and cannot attendance the class?",
+        "answer": "The student should contacts the instructor, ASAP."
+    },
+    {
+        "question": "How to meet with the instructor to discuss about the project?",
+        "answer": "The student can connect on Zoom or in-person."
+    },
+    {
+        "question": "What are the contents of Programming Assignment 1?",
+        "answer": "Index file processing, query parser and compiler"
+    },
+    {
+        "question": "What are the contents of Programming Assignment 2?",
+        "answer": "CRUD operations using GraphQL API in MongoDB and Neo4J"
+    },
+    {
+        "question": "What types of NoSQL database model?",
+        "answer": "Documents, Key-value, Column-Family, and Graph"
+    },
+    {
+        "question": "What are the APIs using in this class?",
+        "answer": "REST-APIs, GraphQL, ...., etc."
+    },
+    {
+        "question": "What are the programming languages using in this class?",
+        "answer": "C, Python, Java, ...., etc."
+    },
+    {
+        "question": "Does the student have to do the project presentation?",
+        "answer": "Yes, the student need to present the project to get the final grade for the project."
+    },
+    {
+        "question": "What is the week for the mid-term?",
+        "answer": "Week 8th"
+    },
+    {
+        "question": "What is the week for the final-term?",
+        "answer": "Week 16th or 17th"
+    },
+    {
+        "question": "What is the student cannot attend the final or midterm exam?",
+        "answer": "The student need to contact the instructor, ASAP. to make appointment for the makeup exam."
+    },
+    {
+        "question": "How does the student should do if he/she has an emergency situations to back to the home country during the semester?",
+        "answer": "The student need to contact the international advisors, ASAP."
+    },
+    {
+        "question": "What is the text book for this class?",
+        "answer": "Database System Concepts and Applications"
+    },
+    {
+        "question": "What are the recommendation books for this class?",
+        "answer": "The database books which recomment by the instructor."
+    },
+    {
+        "question": "How many members in the group project?",
+        "answer": "1, 2, 3, and maximum is 4."
+    },
+    {
+        "question": "Can the student form the project group more than 4 members?",
+        "answer": "No, however it can be some situations that the student have to form the group more than 4 members. The instructor will allow just in case by case."
+    },
+    {
+        "question": "If the student submits the assignment at 12:05 AM, is it late?",
+        "answer": "No, after 12:05 AM will be late."
+    }
+]
