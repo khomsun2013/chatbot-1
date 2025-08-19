@@ -1,4 +1,4 @@
-# 💬 Chatbot template
+# 💬 Chatbot Q&A for classroom.
 
 
 ### How to run it on your own machine
