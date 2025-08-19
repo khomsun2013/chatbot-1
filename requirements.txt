@@ -1,3 +1,24 @@
+# Core web & UI
 streamlit
-openai
+
+# LangChain and its modular components
 langchain
+langchain-community
+langchain-community[embeddings]
+langchain-community[vectorstores]
+langchain-embeddings
+langchain-huggingface
+langchain-ollama
+langchain-openai
+langchain-google-genai
+
+# LLM & embeddings back‑ends
+openai
+ollama
+google-generativeai
+langchain-embeddings
+
+# Utilities
+python-dotenv
+pysqlite3
+requests
